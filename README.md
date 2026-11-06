@@ -105,7 +105,7 @@ Gene-wise dispersions fall as mean expression rises and the fitted trend levels 
 - The replicate-2 libraries differ in depth and show a PC2 offset, probably a batch effect confounded with replicate.
 - The larger number of DEGs at 40 min partly reflects the extra replicate.
 - No GO/KEGG enrichment was done. The remark about ribosomal repression comes from prior knowledge of the amino acid starvation response, not from a test on this data.
-- The report notes that I checked the bash steps and the R script on small simulated data; the download steps, genome download, apeglm and the gene-symbol lookup could not be tested that way, but ran in the original analysis. All numbers and figures above come from the real-data run.
+
 
 ## Files
 ```
